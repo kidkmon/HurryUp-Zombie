@@ -25,6 +25,7 @@ Pause Screen             |  Game Over Screen
 ## Assets
 The assets used in the project were:
    * [Gold Coins](https://assetstore.unity.com/packages/3d/props/gold-coins-1810)
+   * [Mixamo](https://www.mixamo.com/#/)
    * [Low Poly Vehicles Pack](https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-vehicles-pack-26707)
    * [Prototyping Pack (Free)](https://assetstore.unity.com/packages/3d/prototyping-pack-free-94277)
    * [Simple City pack plain](https://assetstore.unity.com/packages/3d/environments/urban/simple-city-pack-plain-100348)
